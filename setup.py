@@ -7,6 +7,6 @@ setup(name='facextr',
       author_email='juro.marusic@gmail.com',
       license='MIT',
       packages=find_packages(),
-      install_requires=['numpy'],
+      install_requires=['numpy', 'keras'],
       url='https://github.com/J77M/facextr',
       keywords=['face detection', 'face extraction', 'opencv', 'keras', 'machine learning'])
