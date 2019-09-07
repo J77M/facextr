@@ -11,8 +11,10 @@ face extraction is composed of:
 - trained keras convolutional neural network -  checks if face from OpenCV is real face (precession 93%)
 
 ACCURACY of this library MAY VARY (depends on images and types of people/faces)
+
 | WARNING: a trained model can be discriminatory ! |
 | --- |
+
 there is possibility to train model - see documentation in code
 
 ### Install
